@@ -5,6 +5,6 @@ Line Follower Robot made for RoboTEC by a 2 man team of high school students. Th
 
 ## Made by
 ### AxeOne
-### Pasca Bogdan aka _BogdanMinShow_
+### [Pasca Bogdan aka _BogdanMinShow_](https://github.com/BogdanMinShow)
 
 
